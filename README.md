@@ -3,7 +3,7 @@
 I worked on distributed systems and blockchain. Currently, I'm working and interested in ML, NLP, CV, bioinformatics, and other related works.
 
 
-![Sara Azarnoush Code](https://github-readme-stats.vercel.app/api/top-langs/?username=saaz742&theme=tokyonight)
+![Sara Azarnoush Code](https://github-readme-stats.vercel.app/api/top-langs/?username=saaz742&hide=Jupyter%20Notebook&theme=tokyonight)
 
 ### My Pages
 [![Gmail](https://img.shields.io/badge/-Mail-black?style=for-the-badge&logo=gmail)](mailto:azarnooshsa@gmail.com)
