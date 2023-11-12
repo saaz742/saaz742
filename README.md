@@ -1,8 +1,15 @@
 ### Hello there! I'm Sara Azarnoush!
 
-I worked on distributed systems and blockchain. Currently, I'm working and interested in ML, NLP, CV, bioinformatics, and other related works.
+I am an undergraduate student of Computer Engineering at Sharif University of Technology.
 
+### Research Interests
+   - Natural Language Processing
+   - Machine Learning
+   - Computer Vision
+   - Bioinformatics
+   - Distributed systems and Blockchain
 
+### Repository Languages (Except Jupyter)
 ![Sara Azarnoush Code](https://github-readme-stats.vercel.app/api/top-langs/?username=saaz742&hide=Jupyter%20Notebook&theme=tokyonight)
 
 ### My Pages
