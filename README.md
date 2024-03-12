@@ -9,9 +9,6 @@ I am an undergraduate student of Computer Engineering at Sharif University of Te
    - Bioinformatics
    - Distributed systems and Blockchain
 
-### Repository Languages (Except Jupyter)
-![Sara Azarnoush Code](https://github-readme-stats.vercel.app/api/top-langs/?username=saaz742&hide=Jupyter%20Notebook&theme=tokyonight)
-
 ### My Pages
 [![Gmail](https://img.shields.io/badge/-Mail-black?style=for-the-badge&logo=gmail)](mailto:azarnooshsa@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/sara-azarnoush-4a239b1b8/)
