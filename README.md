@@ -15,6 +15,6 @@ I am an undergraduate student of Computer Engineering at Sharif University of Te
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/sara-azarnoush-4a239b1b8/)
 [![Sharif Mail](https://img.shields.io/badge/-Sharif_mail-black?style=for-the-badge&logo=googlescholar)](mailto:sa.azarnoush@sharif.edu)
 [![Google Scholar](https://img.shields.io/badge/-Google_Scholar-black?style=for-the-badge&logo=googlescholar)](https://scholar.google.com/citations?user=VqBL8YAAAAAJ&hl=en)
-[![CV](https://img.shields.io/badge/-CV-black?style=for-the-badge&logo=CV)](https://drive.google.com/file/d/1Pme89-LCed05EJXveFXrdVSBjEOpIHmm/view)
+[![CV](https://img.shields.io/badge/-CV-black?style=for-the-badge&logo=CV)](https://drive.google.com/file/d/1Ns54qSO6456zjaW4pAWdzLvwzGyRCsae/view?usp=sharing)
 
 
