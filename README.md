@@ -8,7 +8,7 @@ I am an undergraduate student of Computer Engineering at Sharif University of Te
    - Computer Vision
    - Bioinformatics
    - Distributed systems and Blockchain
-   - 
+     
 ### Repository Languages (Except Jupyter)
 ![Sara Azarnoush Code](https://github-readme-stats.vercel.app/api/top-langs/?username=saaz742&hide=Jupyter%20Notebook&theme=tokyonight)
 
