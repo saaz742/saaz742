@@ -8,6 +8,9 @@ I am an undergraduate student of Computer Engineering at Sharif University of Te
    - Computer Vision
    - Bioinformatics
    - Distributed systems and Blockchain
+
+### SUT Schedule
+[All my course files and codes in Bachelor of Computer Engineering at Sharif University](https://github.com/saaz742/SUT-Schedule?tab=readme-ov-file)
      
 ### Repository Languages (Except Jupyter)
 ![Sara Azarnoush Code](https://github-readme-stats.vercel.app/api/top-langs/?username=saaz742&hide=Jupyter%20Notebook&theme=tokyonight)
