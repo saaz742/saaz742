@@ -1,17 +1,17 @@
-### Hello there! I'm Sara Azarnoush!
+## Hello! Welcome! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand Emoji" width="30px"/>😎
 
-I am an undergraduate in computer engineering at Sharif University of Technology.
+ I'm ***Sara Azarnoush*** a ***Computer Engineer***. 👩🏻‍💻  
 
-### Research Interests
-   - Natural Language Processing
-   - Machine Learning
-   - Computer Vision
+ I like:
+   - Natural Language Processing (NLP)
+   - Machine Learning (ML)
+   - Computer Vision (CV)
    - Distributed systems and Blockchain
 
-### SUT Schedule
+#### SUT Schedule 💻
 [All my course files and codes in Bachelor of Computer Engineering at Sharif University](https://github.com/saaz742/SUT-Schedule?tab=readme-ov-file)
      
-### Repository Languages (Except Jupyter)
+#### Repository Languages (Except Jupyter)
 ![Sara Azarnoush Code](https://github-readme-stats.vercel.app/api/top-langs/?username=saaz742&hide=Jupyter%20Notebook&theme=tokyonight)
 
 ### My Pages
