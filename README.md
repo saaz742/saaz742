@@ -1,6 +1,6 @@
 ### Hello there! I'm Sara Azarnoush!
 
-I am an undergraduate student in computer engineering at Sharif University of Technology.
+I am an undergraduate in computer engineering at Sharif University of Technology.
 
 ### Research Interests
    - Natural Language Processing
