@@ -20,6 +20,6 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sara-azarnoush-4a239b1b8/)
 [![Sharif Mail](https://img.shields.io/badge/-Sharif_mail-black?style=for-the-badge&logo=googlescholar)](mailto:sa.azarnoush@sharif.edu)
 [![Google Scholar](https://img.shields.io/badge/-Google_Scholar-black?style=for-the-badge&logo=googlescholar)](https://scholar.google.com/citations?user=VqBL8YAAAAAJ&hl=en)
-[![CV](https://img.shields.io/badge/-CV-black?style=for-the-badge&logo=CV)](https://drive.google.com/drive/folders/1Huu8jOa0lewrY71pcm0woy4Mn3kIcVrF?usp=sharing)
+[![CV](https://img.shields.io/badge/-CV-black?style=for-the-badge&logo=CV)](https://drive.google.com/drive/folders/16l2tn4GCEaEPgut5nC1oVNLtlLw0pO9X?usp=sharing)
 
 
