@@ -13,6 +13,7 @@
   
 
 ### My Pages
+[![mail](https://img.shields.io/badge/-Mail-black?style=for-the-badge&logo=mail)](mailto:sa.azarnoush@sharif.edu)
 [![Gmail](https://img.shields.io/badge/-Mail-black?style=for-the-badge&logo=gmail)](mailto:Sara.Azarnoushh@gmail.com)
 [![Gmail](https://img.shields.io/badge/-Mail-black?style=for-the-badge&logo=gmail)](mailto:azarnooshsa@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sara-azarnoush/)
